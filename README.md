@@ -1,5 +1,5 @@
 # poolRoll
-##POP2 porject
+##POP2 project
 detailed README shall be written when the repo is made public.
 
 ##TODO
