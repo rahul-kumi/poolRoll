@@ -1,8 +1,8 @@
 # poolRoll
-##POP2 project
+## POP2 project
 detailed README shall be written when the repo is made public.
 
-##TODO
+## TODO
 - [X] Basic Idea approval and validation.
 - [X] Abstract submissions.
 - [ ] Go through the pre-implemented project link, identify the factors of importance and list them.
@@ -23,7 +23,7 @@ detailed README shall be written when the repo is made public.
 - [ ] Prepare and Nail the Presentation.
 - [ ] Chill madi!!!
 
-##Contribution standards:
+## Contribution standards:
 - the collaborators are each expected to branch their work.
 - code shall be adequetly commented, and the namespaces shall be self illustratively.
 - And individually commit thier aggregate work on a file,like `README.md : blah blah blah`
